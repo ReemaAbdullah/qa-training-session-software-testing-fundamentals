@@ -8,5 +8,10 @@
 
 - 📖  Read : [How to write effective test cases?](https://molhem.com/@mzaghleh/%D9%83%D9%8A%D9%81-%D8%AA%D9%83%D8%AA%D8%A8-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1-test-cases-%D9%81%D8%B9-%D8%A7%D9%84%D8%A9-)
 
+## 🌐 English  
+
+- 📖  Read : [Test plan](https://www.guru99.com/test-plan-for-project.html)
+- 📖  Read : [Test Case](https://www.guru99.com/download-sample-test-case-template-with-explanation-of-important-fields.html)
+
 
 These resources will provide you with valuable insights and guidance on writing effective test cases in the banking domain.
