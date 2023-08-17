@@ -1,6 +1,6 @@
 ## Exploratory Testing and Bug Reporting 🕵️‍♀️🐞
 
-Learn how to execute test cases 📋
+### Learn how to execute test cases 📋
 
 Executing test cases is a fundamental aspect of software testing. Here are some key points to keep in mind:
 
@@ -31,7 +31,7 @@ Defect tracking is a crucial part of software development and testing. It involv
 6. ⏳ **Track progress:** Monitor the defect's progress throughout its lifecycle, from identification to resolution.
 7. ✅ **Verify fixes:** Once a fix is implemented, verify that the defect has been resolved and update the status accordingly.
 
-Explore defect tracking tools 🛠️
+### Explore defect tracking tools 🛠️
 
 Various defect tracking tools are available to streamline and enhance the defect tracking process. Some popular tools include:
 
