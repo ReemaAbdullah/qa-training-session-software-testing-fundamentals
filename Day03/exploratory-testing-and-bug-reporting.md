@@ -9,7 +9,7 @@ Executing test cases is a fundamental aspect of software testing. Here are some 
 - 🔍 **Document observations:** Take note of any deviations, unexpected behavior, or potential issues encountered during test case execution.
 - 🐞 **Report defects:** If any defects are identified, report them promptly using the bug reporting process.
 
-Understand the process of defect tracking 📈
+### Understand the process of defect tracking 📈
 
 Defect tracking is a crucial part of software development and testing. It involves recording, monitoring, and resolving identified defects. Here's an overview of the defect tracking process:
 
