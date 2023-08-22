@@ -1,1 +1,2 @@
-
+- 📹  Video [API Testing for Beginners using Postman ](https://www.youtube.com/watch?v=QzGK1pf1GTQ)
+- 📹  Video [Postman Tutorials ](https://www.youtube.com/watch?v=hTG-TihHfjI&list=PLbw0NwfOlr_xCz2JYvjTPp_JcpWXLBRpa&index=4)
