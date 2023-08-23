@@ -1,4 +1,4 @@
-# Test Automation using Postman 🤖
+# Test Automation  🤖
 
 Test automation is a crucial aspect of software testing that involves using tools and scripts to automate the execution of test cases. It helps improve efficiency, reduce manual effort, and ensure consistent and reliable results. Here's a guide to understanding test automation fundamentals, frameworks, and best practices. 📝
 
